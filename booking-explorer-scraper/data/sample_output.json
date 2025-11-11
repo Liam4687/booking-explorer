@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Hotel Example 1",
+    "price": "$150",
+    "rating": "4.5"
+  },
+  {
+    "name": "Hotel Example 2",
+    "price": "$200",
+    "rating": "4.0"
+  }
+]
